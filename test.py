@@ -1,4 +1,5 @@
-Name = input("Enter a name: ")
+name = input("Enter a name: ")
 
+# print people names
 def remember(name):
   print(name)
